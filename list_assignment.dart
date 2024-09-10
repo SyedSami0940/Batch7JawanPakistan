@@ -8,7 +8,6 @@ void main() {
   print("List of Names: $mylst");
 
   //Q. 2) Create a list of Days and print only  Sunday
-
   List<String> days = [
     'Monday',
     'Tuesday',
